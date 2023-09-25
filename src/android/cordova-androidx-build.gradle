@@ -1936,8 +1936,8 @@ def getConvertListe(useAndroidX) {
           ["android.support.wear.widget.SwipeDismissLayout", "androidx.wear.widget.SwipeDismissLayout"],
           ["android.support.wear.widget.WearableLinearLayoutManager", "androidx.wear.widget.WearableLinearLayoutManager"],
           ["android.support.wear.widget.WearableRecyclerView", "androidx.wear.widget.WearableRecyclerView"],
-          ["com.google.android.gms.maps.model", "com.google.android.libraries.maps.model"],
-          ["com.google.android.gms.maps", "com.google.android.libraries.maps"]
+        //  ["com.google.android.gms.maps.model", "com.google.android.libraries.maps.model"],
+         // ["com.google.android.gms.maps", "com.google.android.libraries.maps"]
   ]
 
   if (!useAndroidX) {
